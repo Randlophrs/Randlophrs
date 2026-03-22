@@ -3,9 +3,7 @@
        alt="Profile banner">
 </p>
 
-<h1 align="center" style="color:#1E3A8A;font-family:'Segoe UI',system-ui,-apple-system,BlinkMacSystemFont,sans-serif;">
-  Hi, I'm Jansen
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&width=1000&lines=Hi%2C+I'm+Jansen)](https://git.io/typing-svg)
 
 <p align="center">
   <samp>
