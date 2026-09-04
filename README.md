@@ -52,12 +52,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Randlophrs&show_icons=true&title_color=1E3A8A&icon_color=38BDF8&text_color=020617&bg_color=F9FAFB"
-    alt="GitHub stats"
-    height="160"
-/>
-  <img
-    src="https://streak-stats.demolab.com?user=Randlophrs&theme=default&background=F9FAFB&ring=1E3A8A&fire=38BDF8&currStreakLabel=1E3A8A&sideNums=020617&sideLabels=64748B&dates=64748B"
+    src="https://streak-stats.demolab.com?user=Randlophrs&theme=default&background=F9FAFB&ring=4F46E5&fire=818CF8&currStreakLabel=312E81&sideNums=1E1B4B&sideLabels=818CF8&dates=818CF8"
     alt="GitHub Streak"
     height="160"
 />
