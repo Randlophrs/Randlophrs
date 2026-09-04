@@ -65,6 +65,6 @@
 
 <p align="center">
   <sub>
-    Still learning, still shipping. Palette inspired by a blue & gold theme.
+    Still learning, still shipping. Palette inspired by a blue theme.
   </sub>
 </p>
