@@ -52,11 +52,6 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Randlophrs&show_icons=true&title_color=353BA7&icon_color=698AE8&text_color=2D4286&bg_color=F8F9FE"
-    alt="GitHub stats"
-    height="160"
-/>
-  <img
     src="https://streak-stats.demolab.com?user=Randlophrs&theme=default&background=F8F9FE&ring=2D4286&fire=698AE8&currStreakLabel=353BA7&sideNums=2D4286&sideLabels=698AE8&dates=698AE8"
     alt="GitHub Streak"
     height="160"
